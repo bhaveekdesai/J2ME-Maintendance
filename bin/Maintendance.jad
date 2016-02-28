@@ -1,0 +1,8 @@
+MIDlet-1: Maintendance, Maintendance.png, Maintendance
+MIDlet-Jar-Size: 4797
+MIDlet-Jar-URL: Maintendance.jar
+MIDlet-Name: Maintendance
+MIDlet-Vendor: Bhaveek Desai
+MIDlet-Version: 1.0.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
